@@ -9,8 +9,8 @@ File:
 Shapes:  
 • Choice of different objects to draw with one click.  
   
-Colors: 
-• Change the color of the next drawing object.  
+Colors:  
+• Change the color of the next drawing object.   
   
 Functions:   
 • Draw: to draw different objects.  
